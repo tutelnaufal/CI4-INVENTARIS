@@ -69,3 +69,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ini adalah aplikasi manajemen inventaris barang
 ini adalah aplikasi yang sangat berguna
 ini adalah aplikasi yang bagus
+Aplikasi Manajemen Inventaris Barang
